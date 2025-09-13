@@ -7,7 +7,7 @@ import {
 import { useAuth } from "../../context/AuthContext";
 import { auth } from "../../firebase/firebase";
 import { useNavigate } from "react-router-dom";
-import "./login.css";
+import "./Login.css";
 import { toast } from "react-toastify";
 
 export default function Login() {
