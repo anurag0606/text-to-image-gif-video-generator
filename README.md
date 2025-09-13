@@ -14,4 +14,6 @@ If you are developing a production application, we recommend using TypeScript an
 Live Project link = https://text-to-image-gif-video-generator.vercel.app/
 
 Screenshot:
-![dragon image](src\readme assets\dragon image.png)
+<!-- ![dragon image](src\readme assets\dragon image.png) -->
+
+<img src = "src\readme assets\dragon image.png" alt="dragon image">
