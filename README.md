@@ -16,11 +16,10 @@ Live Project link = https://text-to-image-gif-video-generator.vercel.app/
 Demo :
 
 <img src = "src\readme assets\dragon image.png" alt="dragon image">
-<video src = "src\readme assets\Video1.mp4" alt="Video1">
-<video src = "src\readme assets\Video2.mp4" alt="Video2">
+<!-- <video src = "src\readme assets\Video1.mp4" alt="Video1">
+<video src = "src\readme assets\Video2.mp4" alt="Video2"> -->
 
-<!-- <video width="320" height="240" controls>
-  <source src="src\readme assets\Viedo1.mp4" type="video/mp4">
-  <source src="src\readme assets\Viedo2.mp4" type="Video2">
-  Your browser does not support the video tag.
-</video> -->
+<video width="320" height="240" controls>
+  <source src="src\readme assets\Video1.mp4" type="Video1">
+  <source src="src\readme assets\Video2.mp4" type="Video2">
+</video>
