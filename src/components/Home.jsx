@@ -98,7 +98,7 @@ function Home() {
     if (matchedDoc) {
       const video = matchedDoc.data();
 
-      let countdown = 180;
+      let countdown = 120;
       const interval = setInterval(() => {
         console.log("countdown", countdown);
         countdown--;
