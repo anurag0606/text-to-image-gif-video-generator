@@ -1,4 +1,4 @@
-// src/components/Login.jsx
+// src/components/Login.jsxgg
 import React, { useState, useEffect } from "react";
 import {
   signInWithEmailAndPassword,
@@ -7,7 +7,7 @@ import {
 import { useAuth } from "../../context/AuthContext";
 import { auth } from "../../firebase/firebase";
 import { useNavigate } from "react-router-dom";
-import "./Login.css";
+import "./login.css";
 import { toast } from "react-toastify";
 
 export default function Login() {
