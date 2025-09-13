@@ -44,7 +44,7 @@ const Sidebar = ({ onSubmit, setText }) => {
     <section>
       <div>
         <img
-          src="src/assets/menu.png"
+          src="/assets/menu.png"
           alt="menu"
           onClick={() => setIsOpen(!isOpen)}
         />
