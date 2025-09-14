@@ -17,3 +17,7 @@ Demo :
 
 <img src = "src\readme assets\dragon image.png" alt="dragon image">
 
+https://github.com/user-attachments/assets/7274f9b3-f96d-4701-9cd7-59eb71b6f2ca
+
+https://github.com/user-attachments/assets/c918618f-a998-4a04-b45d-d457c9ea1bd9
+
