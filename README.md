@@ -20,6 +20,6 @@ Demo :
 <video src = "src\readme assets\Video2.mp4" alt="Video2"> -->
 
 <video width="320" height="240" controls>
-  <source src="src\readme assets\Video1.mp4" type="Video1">
+  <source src="src\readme assets\video1.mp4" type="Video1">
   <source src="src\readme assets\Video2.mp4" type="Video2">
 </video>
